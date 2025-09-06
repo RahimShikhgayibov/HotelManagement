@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+project.lock.json
+packages/
+
+# dotnet
+*.db
+*.log
+
+# User secrets
+secrets.json
+appsettings.*.Local.json
+appsettings.*.Secrets.json
+
+# Publish
+publish/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+**/docker-compose.override.yml
+.env
+
