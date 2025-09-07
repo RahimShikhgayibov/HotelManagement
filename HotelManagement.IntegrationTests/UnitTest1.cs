@@ -1,4 +1,4 @@
-﻿namespace HotelManagement.UnitTests
+﻿namespace HotelManagement.IntegrationTests
 {
     public class UnitTest1
     {
